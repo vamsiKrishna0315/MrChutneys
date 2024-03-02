@@ -197,7 +197,7 @@ img{
   color: var(--first-color);
 }
 .nav__logo{
-  background-image: url('/assets/img/logo.png');
+  background-image: url('assets/img/logo.png');
   background-size: contain; /* Adjusts the size to maintain aspect ratio */
   background-repeat: no-repeat;
   width: 132px; /* Set the desired width */
